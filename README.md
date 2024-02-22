@@ -9,6 +9,7 @@ This is the starting readme for this assignment.  Please edit the following info
   - 
   - 
 ## Logistics
+Team Meeting ID: 248 487 755 645
 
 For this assignment (and every assignment), you must login into the servers through `your_khoury_name@login.khoury.northeastern.edu` to complete and test the code. The reason is the examples I will provide below are compiled strictly for our machines architecture, and this is a consistent architecture where your submission will be graded.
 
