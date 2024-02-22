@@ -2,9 +2,8 @@
 
 This is the starting readme for this assignment.  Please edit the following information by removing the "*edit me*" and replace it with appropriate information your assignment. If it is asking you a question, please provide a response.
 
-- Name: Xinyi Wang/Sophia  & Janet Jung
-- Github Account name: thisissophiawang  & 
-- How many hours did it take you to complete this assignment? 
+- Name: Xinyi Wang/Sophia  & Janet Jung & Yuyang Bai
+- How many hours did it take you to complete this conceptation?  
 - Did you collaborate with any other students/TAs/Professors?  Teammates 
 - Did you use any external resources? (Cite them below)
   - 
